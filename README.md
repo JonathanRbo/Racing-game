@@ -1,4 +1,4 @@
-# Speed Racer 3D — Jogo de Corrida
+# Racing-game 3D — Jogo de Corrida
 
 Jogo de corrida 3D rodando no browser, renderizado via Three.js sem nenhum motor de jogo externo.
 
